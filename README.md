@@ -1,3 +1,3 @@
-# fp2
-first project2
+# fp
+first project
 i want to study phthon
